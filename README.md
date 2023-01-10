@@ -10,6 +10,21 @@ hostip去除版是将官方脚本的 hijk.art/host.php 网址进行剔除并换�
 
 脚本修改尚有不足，请不要将此脚本用于开发环境，感谢提供修改意见的群友，谢谢！
 
+
+## Xray
+
+【1】Xray一键脚本
+
+hostip修改版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mysdia/scripts-mod/main/xray_mod1.sh)
+```
+
+hostip去除版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mysdia/scripts-mod/main/xray_mod2.sh)
+```
+
 ## V2ray
 
 【3】V2ray带伪装一键脚本CentOS版
@@ -46,20 +61,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mysdia/scripts-mod/main/v2ray_
 hostip去除版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mysdia/scripts-mod/main/v2ray_mod2.sh)
-```
-
-## Xray
-
-【1】Xray一键脚本
-
-hostip修改版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/mysdia/scripts-mod/main/xray_mod1.sh)
-```
-
-hostip去除版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/mysdia/scripts-mod/main/xray_mod2.sh)
 ```
 
 ## Trojan
